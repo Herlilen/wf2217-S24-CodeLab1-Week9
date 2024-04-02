@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a719896fca76d459d6d93b90a51175, type: 3}
+  m_Name: North
+  m_EditorClassIdentifier: 
+  directionName: North
+  directionAudio: {fileID: 8300000, guid: ca8ed908abf55f347b7e7ff26a84858c, type: 3}
+  directionSkybox: {fileID: 2100000, guid: 4e5e8531e89d441f3941735dd5fb09c8, type: 2}
